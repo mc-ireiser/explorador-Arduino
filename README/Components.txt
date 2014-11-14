@@ -1,0 +1,11 @@
+Arduino
+Ultrasonic Sensor x3
+DC Motor x2
+JY-MCU Bluetooth Module
+Battery
+Wheel x2
+Base x2
+Breadboard (mini)
+Resistance 220 ohms
+Resistance 47ohms
+Cables
